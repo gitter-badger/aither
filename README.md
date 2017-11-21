@@ -1,5 +1,7 @@
 # Aither
 
+[![Join the chat at https://gitter.im/aither/aither](https://badges.gitter.im/aither/aither.svg)](https://gitter.im/aither/aither?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Aither is intended to provide a WordPress-esque solution for Progressive Web Apps on Google Cloud Platform.
 Documentation, Guidelines, and Standards will be sparse for the foreseeable future.
 
