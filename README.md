@@ -1,5 +1,13 @@
 # Aither
 
+Aither is intended to provide a WordPress-esque solution for Progressive Web Apps on Google Cloud Platform.
+Documentation, Guidelines, and Standards will be sparse for the foreseeable future.
+
+Represent separate concerns from the roadmap and milestones using [gitflow](http://nvie.com/posts/a-successful-git-branching-model/) and appropriately named branches.
+  task-\* -> story-\* -> develop -> release-\* -> master <-> hotfix-\* <-> develop
+
+Use [Gitmoji](https://gitmoji.carloscuesta.me/) for commit messages.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.2.
 
 ## Development server
